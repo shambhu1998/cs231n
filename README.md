@@ -29,3 +29,11 @@ The notebook Dropout.ipynb will help you implement dropout and explore its effec
 In the notebook ConvolutionalNetworks.ipynb you will implement several new layers that are commonly used in convolutional networks.
 
 **Q5: PyTorch/TensorFlow on CIFAR-10**<br>
+
+# Assignment 3
+**Image Captioning with Vanilla RNNs**<br>
+**Image Captioning with LSTMs**<br>
+**Image Captioning with Transformers**<br>
+**Network Visualization: Saliency Maps, Class Visualization, and Fooling Images**<br>
+**Generative Adversarial Networks**
+**Self-Supervised Learning for Image Classification**
